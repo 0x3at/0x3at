@@ -11,6 +11,8 @@ In my quest to understand and contribute to this field, I run a public newslette
 
 My learning approach is project-oriented, a method I find particularly effective for gaining practical experience and understanding. I am engaged in building a variety of applications, ranging from Twitter bots to other utilitarian software. This hands-on approach allows me to apply theoretical knowledge in real-world scenarios, enhancing my understanding and honing my skills.
 
+![BowtiedWave's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x3at&show_icons=true&theme=radical)
+
 ## My Tech Stack 💻
 
 My primary programming language is Python. I also have some proficiency in reading Solidity.
