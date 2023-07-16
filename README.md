@@ -28,7 +28,7 @@ My primary programming language is Python. I also have some proficiency in readi
 - Python: Proficient in developing efficient, readable, and scalable code.
 - Solidity: Familiar with the basics of smart contract development.
 - Infrastructure Analysis: Experienced in analyzing and improving IT infrastructure.
-- Manual QA: Many years working in Manual QA testing CRM and Healthcare Software
+- Manual QA: Many years working in Manual QA testing and shipping CRM's and Healthcare Software
 
 ## Contact Information 📫
 
