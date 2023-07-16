@@ -5,7 +5,7 @@
 
 ## About Me 📝
 
-I am an Infrastructure Analyst, currently navigating my way through the fascinating world of software development. My journey is fueled by a deep interest in Web 3 and Public Blockchains, areas I believe hold the key to the next generation of <b>distributed innovation</b>. 
+My technical experience began with infrastructure engineering and onto product management, now navigating my way through the fascinating world of software development. My journey is fueled by a deep interest in Web 3 and Public Blockchains, areas I believe hold the key to the next generation of <b>distributed innovation</b>. 
 
 In my quest to understand and contribute to this field, I run a public newsletter, [The Wavepool](#https://bowtiedwave.substack.com/), where I delve into the intricacies of blockchain technology and the Ethereum ecosystem. This platform serves as a beacon for those interested in these topics, providing insights and fostering discussions about the latest developments and trends.
 
