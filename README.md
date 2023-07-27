@@ -38,26 +38,23 @@ My primary programming language is Python. I also have some proficiency in readi
 Feel free to reach out to me on [Twitter](https://twitter.com/bowtiedwavepool) for any discussions related to Python, Solidity, or Blockchain development.
 
 
-</td>
-    <td width="35%">
 
-<h1 align = "center">Analytics</h1>
-<hr>
+ <td width="35%">
+  <br>
+  <h1 align = "center">Analytics</h1>
+  <br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=0x3at&show_icons=true&theme=gruvbox_light" style="width: 100%;">
-    
+  <br>
   <img src="https://leetcode-stats.vercel.app/api?username=0x3at&theme=Mist" style="width: 100%;">
-
+  <hr>
   <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_current_streak=true&hide_longest_streak=true" style="width: 100%;">
-
+  <br>
   <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_total_contributions=true&hide_longest_streak=true" style="width: 100%;">
     
   <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_total_contributions=true&hide_current_streak=true" style="width: 100%;">
 
-<hr>
+  <hr>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x3at" style="width: 100%;">
 </td>
-  </tr>
-</table>
-
-
-
