@@ -38,11 +38,17 @@ My primary programming language is Python. I also have some proficiency in readi
 Feel free to reach out to me on [Twitter](https://twitter.com/bowtiedwavepool) for any discussions related to Python, Solidity, or Blockchain development.
 
 
-</td>
-    <td width="35%">
+
+  <tr>
+    <td style="vertical-align: top;">
 
 <h1 align = "center">Analytics</h1>
-<hr>
+
+  </td>
+  </tr>
+  <tr>
+    <td>
+
   <img src="https://github-readme-stats.vercel.app/api?username=0x3at&show_icons=true&theme=gruvbox_light" style="width: 100%;">
     
   <img src="https://leetcode-stats.vercel.app/api?username=0x3at&theme=Mist" style="width: 100%;">
@@ -55,9 +61,7 @@ Feel free to reach out to me on [Twitter](https://twitter.com/bowtiedwavepool) f
 
 <hr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x3at" style="width: 100%;">
-</td>
+
+  </td>
   </tr>
 </table>
-
-
-
