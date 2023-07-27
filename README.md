@@ -3,15 +3,49 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
+<table width="100%">
+  <tr>
+    <td width="65%">
+
 ## About Me 📝
 
-My technical experience began with infrastructure engineering and onto product management, now navigating my way through the fascinating world of software development. My journey is fueled by a deep interest in Web 3 and Public Blockchains, areas I believe hold the key to the next generation of <b>distributed innovation</b>. 
+My technical experience began with infrastructure engineering and onto product management, now navigating my way through the fascinating world of software development. My journey is fueled by a deep interest in Web 3 and Public Blockchains, areas I believe hold the key to the next generation of <b>distributed innovation</b>.
 
 In my quest to understand and contribute to this field, I run a public newsletter, [The Wavepool](#https://bowtiedwave.substack.com/), where I delve into the intricacies of blockchain technology and the Ethereum ecosystem. This platform serves as a beacon for those interested in these topics, providing insights and fostering discussions about the latest developments and trends.
 
 My learning approach is project-oriented, a method I find particularly effective for gaining practical experience and understanding. I am engaged in building a variety of applications, ranging from Twitter bots to other utilitarian software. This hands-on approach allows me to apply theoretical knowledge in real-world scenarios, enhancing my understanding and honing my skills.
 
-![BowtiedWave's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x3at&show_icons=true&theme=radical)
+### Contact Information 📫
+<hr>
+
+Feel free to reach out to me on [Twitter](https://twitter.com/bowtiedwavepool) for any discussions related to Python, Solidity, or Blockchain development.
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=0x3at&show_icons=true&theme=gruvbox_light" style="width: 45%;">
+    <img src="https://leetcode-stats.vercel.app/api?username=0x3at&theme=Mist" style="width: 48%;">
+</div>
+
+</td>
+    <td width="35%">
+
+<h2> Analytics</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x3at" style="width: 100%;">
+
+
+  <img src="https://streak-stats.demolab.com?user=0x3at&theme=transparent&border_radius=6&card_width=500&hide_current_streak=true&hide_longest_streak=true" style="width: 100%;">
+
+
+  <img src="https://streak-stats.demolab.com?user=0x3at&theme=transparent&border_radius=6&card_width=500&hide_total_contributions=true&hide_longest_streak=true" style="width: 100%;">
+
+    
+  <img src="https://streak-stats.demolab.com?user=0x3at&theme=transparent&border_radius=6&card_width=500&hide_total_contributions=true&hide_current_streak=true" style="width: 100%;">
+
+</td>
+  </tr>
+</table>
+
+
 
 ## My Tech Stack 💻
 
@@ -29,8 +63,4 @@ My primary programming language is Python. I also have some proficiency in readi
 - Solidity: Familiar with the basics of smart contract development.
 - Infrastructure Analysis: Experienced in analyzing and improving IT infrastructure.
 - Manual QA: Many years working in Manual QA testing and shipping CRM's and Healthcare Software
-
-## Contact Information 📫
-
-Feel free to reach out to me on [Twitter](https://twitter.com/bowtiedwavepool) for any discussions related to Python, Solidity, or Blockchain development.
 
