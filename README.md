@@ -15,38 +15,6 @@ In my quest to understand and contribute to this field, I run a public newslette
 
 My learning approach is project-oriented, a method I find particularly effective for gaining practical experience and understanding. I am engaged in building a variety of applications, ranging from Twitter bots to other utilitarian software. This hands-on approach allows me to apply theoretical knowledge in real-world scenarios, enhancing my understanding and honing my skills.
 
-### Contact Information 📫
-<hr>
-
-Feel free to reach out to me on [Twitter](https://twitter.com/bowtiedwavepool) for any discussions related to Python, Solidity, or Blockchain development.
-
-<div style="display: grid; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=0x3at&show_icons=true&theme=gruvbox_light" style="width: 45%;">
-    <img src="https://leetcode-stats.vercel.app/api?username=0x3at&theme=Mist" style="width: 47%;">
-</div>
-
-</td>
-    <td width="35%">
-
-<h1 align = "center">Analytics</h1>
-
-
-  <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_current_streak=true&hide_longest_streak=true" style="width: 100%;">
-
-
-  <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_total_contributions=true&hide_longest_streak=true" style="width: 100%;">
-
-    
-  <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_total_contributions=true&hide_current_streak=true" style="width: 100%;">
-
-<hr>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x3at" style="width: 100%;">
-</td>
-  </tr>
-</table>
-
-
-
 ## My Tech Stack 💻
 
 My primary programming language is Python. I also have some proficiency in reading Solidity.
@@ -63,4 +31,33 @@ My primary programming language is Python. I also have some proficiency in readi
 - Solidity: Familiar with the basics of smart contract development.
 - Infrastructure Analysis: Experienced in analyzing and improving IT infrastructure.
 - Manual QA: Many years working in Manual QA testing and shipping CRM's and Healthcare Software
+
+### Contact Information 📫
+<hr>
+
+Feel free to reach out to me on [Twitter](https://twitter.com/bowtiedwavepool) for any discussions related to Python, Solidity, or Blockchain development.
+
+
+</td>
+    <td width="35%">
+
+<h1 align = "center">Analytics</h1>
+<hr>
+  <img src="https://github-readme-stats.vercel.app/api?username=0x3at&show_icons=true&theme=gruvbox_light" style="width: 100%;">
+    
+  <img src="https://leetcode-stats.vercel.app/api?username=0x3at&theme=Mist" style="width: 100%;">
+
+  <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_current_streak=true&hide_longest_streak=true" style="width: 100%;">
+
+  <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_total_contributions=true&hide_longest_streak=true" style="width: 100%;">
+    
+  <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_total_contributions=true&hide_current_streak=true" style="width: 100%;">
+
+<hr>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x3at" style="width: 100%;">
+</td>
+  </tr>
+</table>
+
+
 
