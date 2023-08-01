@@ -1,7 +1,12 @@
 # Welcome, I am BowtiedWave 👋
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
 
 <table width="100%">
   <tr>
@@ -9,21 +14,20 @@
 
 ## About Me 📝
 
-My technical experience began with infrastructure engineering and onto product management, now navigating my way through the fascinating world of software development. My journey is fueled by a deep interest in Web 3 and Public Blockchains, areas I believe hold the key to the next generation of <b>distributed innovation</b>.
+Infrastructure analyst turned software developer, self-teaching myself a fullstack skillset. I have been coding for ~6 months consistently, starting with Solidity and eventually moving onto Python. I find back end development easier than front end, and am working to improve my front end skills. I have a deep dedication to teaching myself how to excel as a programmer with the end of goal of contributing to Machine Learning and Distributed Networks as Infrastructure such as blockchain technology.
 
-In my quest to understand and contribute to this field, I run a public newsletter, [The Wavepool](#https://bowtiedwave.substack.com/), where I delve into the intricacies of blockchain technology and the Ethereum ecosystem. This platform serves as a beacon for those interested in these topics, providing insights and fostering discussions about the latest developments and trends.
-
-My learning approach is project-oriented, a method I find particularly effective for gaining practical experience and understanding. I am engaged in building a variety of applications, ranging from Twitter bots to other utilitarian software. This hands-on approach allows me to apply theoretical knowledge in real-world scenarios, enhancing my understanding and honing my skills.
+My learning approach is project-oriented, a method I find particularly effective for gaining practical experience and understanding. After navigating Python courses and getting a good grasp on the Python syntax I began just building projects. I now have a more direction oriented approach to learning, and am improving my ability to think in an iterative way - whilst improving on core development fundamentals. 
 
 ## My Tech Stack 💻
 
-My primary programming language is Python. I also have some proficiency in reading Solidity.
+My primary programming language is Python and SQL. I also have some proficiency in reading Solidity, and am learning Javascript.
 
 ## Current Learning Focus 🎯
 
 - Advanced Python: To deepen my understanding and broaden my capabilities with the end goal of being able to contribute to Machine Learning.
 - Solidity: To gain a more comprehensive understanding of smart contract development, and how immutable systems can be used to solve current problems.
-- Blockchain Development: To understand the true power of distributed node networks.
+- Learn Web Development: To learn how to develop usable front end interfaces.
+- Data Science and Engineering: Learning the fundamentals of Data Science and Machine Learning
 
 ## Skills 🛠️
 
@@ -42,7 +46,7 @@ Feel free to reach out to me on [Twitter](https://twitter.com/bowtiedwavepool) f
  <td width="35%">
   <br>
   <h1 align = "center">Analytics</h1>
-  <br>
+  <br><br><br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=0x3at&show_icons=true&theme=gruvbox_light" style="width: 100%;">
   <br>
