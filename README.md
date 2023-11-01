@@ -12,7 +12,7 @@
 
 ## About Me 📝
 
-Infrastructure Analyst turned software developer, self-teaching myself a fullstack skillset. I have been coding for ~6 months consistently, starting with Solidity and eventually moving onto Python. I find back end development easier than front end, and am working to improve my front end skills. I have a deep dedication to teaching myself how to excel as a programmer with the end of goal of contributing to Machine Learning and Distributed Networks as Infrastructure such as blockchain technology.
+Infrastructure Analyst turned software developer, self-teaching myself a fullstack skillset. I have been coding for more than a year consistently, starting with Solidity and eventually moving onto Python. I find back end development easier than front end, and am working to improve my front end skills. I have a deep dedication to teaching myself how to excel as a programmer with the end of goal of contributing to Machine Learning and Distributed Networks as Infrastructure such as blockchain technology.
 
 My learning approach is project-oriented, a method I find particularly effective for gaining practical experience and understanding. After navigating Python courses and getting a good grasp on the Python syntax I began just building projects. I now have a more direction oriented approach to learning, and am improving my ability to think in an iterative way - whilst improving on core development fundamentals. 
 
