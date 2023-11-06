@@ -5,8 +5,8 @@
       
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-![C++](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![C++](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat-square)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=blue)
 
 
 
