@@ -1,4 +1,3 @@
-# Welcome, I am BowtiedWave 👋
 <table width="100%">
   <tr>
     <td width="65%">
@@ -14,50 +13,33 @@
 
 
 ## About Me 📝
+I'm a former Infrastructure Analyst turned aspiring software developer, navigating my way through the ever-evolving tech world. My journey started over a year ago, beginning with Solidity and eventually shifting focus to Python. While backend development feels more natural, I'm pushing myself to get better at front-end too.
 
-Infrastructure Analyst turned software developer, self-teaching myself a fullstack skillset. I have been coding for more than a year consistently, starting with Solidity and eventually moving onto Python. I find back end development easier than front end, and am working to improve my front end skills. I have a deep dedication to teaching myself how to excel as a programmer with the end of goal of contributing to Machine Learning and Distributed Networks as Infrastructure such as blockchain technology.
+I love diving into projects as a way to learn—it keeps things practical and helps me grow my skills. Right now, I’m working on sharpening my fundamentals and learning how to iterate better with every step. My ultimate goal? To build cool things, improve every day, and eventually contribute to Machine Learning and decentralized technologies.
 
-My learning approach is project-oriented, a method I find particularly effective for gaining practical experience and understanding. After navigating Python courses and getting a good grasp on the Python syntax I began just building projects. I now have a more direction oriented approach to learning, and am improving my ability to think in an iterative way - whilst improving on core development fundamentals. 
+## Current Focus 🎯
+REST Api's: I enjoy building and maintaining API's, a skill I hope to get better and better at.
+Embedded: I am intimidated by low level languages but it is a goal i strive to accomplish.
+Web Development: Learning how to create functional and user-friendly front-end interfaces with any number of JS frameworks.
+Networking: Establishing strong relationships with like minded engineers to continue to push and challenge myself.
 
-## My Tech Stack 💻
-
-My primary programming language is Python and SQL. I also have some proficiency in reading Solidity, and am learning Javascript.
-
-## Current Learning Focus 🎯
-
-- Advanced Python: To deepen my understanding and broaden my capabilities with the end goal of being able to contribute to Machine Learning.
-- Solidity: To gain a more comprehensive understanding of smart contract development, and how immutable systems can be used to solve current problems.
-- Learn Web Development: To learn how to develop usable front end interfaces.
-- Data Science and Engineering: Learning the fundamentals of Data Science and Machine Learning
-
-## Skills 🛠️
-
-- <b>Python</b>: Proficient in developing efficient, readable, and scalable code.
-- <b>Solidity</b>: Familiar with the basics of smart contract development.
-- <b>Infrastructure Analysis</b>: Experienced in analyzing and improving IT infrastructure.
-- <b>Manual QA</b>: Many years working in Manual QA testing and shipping CRM's and Healthcare Software
-
-### Contact Information 📫
-<hr>
-
-Feel free to reach out to me on [Twitter](https://twitter.com/bowtiedwavepool) for any discussions related to Python, Solidity, or Blockchain development.
+Skills 🛠️
+Python: Writing clean, scalable code.
+Javascript: Experience with plain JS, learning more frameworks.
+C#/.NET: Improving my skillset by bulding winapps and web servers.
+Solidity: In depth understanding of smart contracts.
+Infrastructure Analysis: Experience in IT infrastructure engineering.
+Manual QA: Years of experience in testing and shipping software.
 
 
 
  <td width="35%">
-  <br>
   <h1 align = "center">Analytics</h1>
-  <br><br><br>
-
   <img src="https://github-readme-stats.vercel.app/api?username=0x3at&show_icons=true&theme=gruvbox_light" style="width: 100%;">
   <br>
   <img src="https://leetcode-stats.vercel.app/api?username=0x3at&theme=Mist" style="width: 100%;">
   <hr>
-  <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_current_streak=true&hide_longest_streak=true" style="width: 100%;">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_total_contributions=true&hide_longest_streak=true" style="width: 100%;">
-    
-  <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_total_contributions=true&hide_current_streak=true" style="width: 100%;">
+  <img src="https://streak-stats.demolab.com?user=0x3at&theme=react&card_width=600&hide_current_streak=false&hide_longest_streak=false" style="width: 100%;">
 
   <hr>
 
