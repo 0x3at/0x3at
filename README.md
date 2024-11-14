@@ -13,4 +13,6 @@
 
 
 ## About Me 📝
-I do be building
+I just be building stuff you know - its probably useless but I think its cool
+
+_Ghandi once said Javascript on the server was a mistake, and he was right._
