@@ -11,8 +11,9 @@
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
 
 
+>_Javascript on the server was a mistake._ - Ghandi
 
 ## About Me 📝
+>
 I just be building stuff you know - its probably useless but I think its cool
 
-_Ghandi once said Javascript on the server was a mistake, and he was right._
