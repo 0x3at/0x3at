@@ -58,7 +58,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://readme-stats-thegoldenpro.vercel.app/api?username=0x3at&hide_title=true&include_all_commits=true&show_icons=true&title_color=627eea&icon_color=ffffff&text_color=628ffd&bg_color=00000000&border_radius=20&border_color=white" width="500px"/>
+        <img src="https://readme-stats-0x3at.vercel.app/api?username=0x3at&hide_title=true&include_all_commits=true&show_icons=true&title_color=627eea&icon_color=ffffff&text_color=628ffd&bg_color=00000000&border_radius=20&border_color=white" width="500px"/>
       </td>
       <td align="center">
         <img src="https://readme-stats-thegoldenpro.vercel.app/api/top-langs/?username=0x3at&hide_title=true&layout=compact&langs_count=10&title_color=627eea&icon_color=627eea&text_color=628ffd&bg_color=00000000&border_radius=20&border_color=white" width="330px"/>
