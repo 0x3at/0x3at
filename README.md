@@ -1,6 +1,6 @@
 <div align="center">
 
-# ${\color{628ffd}Howdy}$
+# ${\color{628ffd}I}$ ${\color{628ffd}Use}$ ${\color{628ffd}Arch}$ ${\color{628ffd}btw}$
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flate&logo=python&logoColor=white" alt="Python">
